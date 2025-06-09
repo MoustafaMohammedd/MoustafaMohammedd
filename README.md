@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mohamed Mostafa</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafamohammedd&label=Profile%20views&color=0e75b6&style=flat" alt="moustafamohammedd" /> </p>
-
 <h3 align="left">About Me</h3>
 
 - 🔭 I am an **AI engineer** who is deeply passionate about artificial intelligence
