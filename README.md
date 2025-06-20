@@ -38,10 +38,10 @@
 
 ---
 
-#### 🏫 **Bachelor of Biomedical Engineering (In Progress)**
+#### 🏫 **Bachelor of Biomedical Engineering **
 
 - ![University Badge](https://img.shields.io/badge/Helwan_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-91%25-brightgreen)
+- ![GPA Badge](https://img.shields.io/badge/GPA-88%25-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-2020%20–%202025-yellow)
 
 ---
@@ -56,13 +56,32 @@
 **Digital Egypt Pioneers Initiative (DEPI)** · *Cairo*  
 **April 2024 - February 2025**
 
-**Key Responsibilities:**
-- Engineered generative AI models.
-- Worked with ML & DL, MLOps, MLflow, and Hugging Face.
-- Specialized in NLP with attention models.
+**Key areas covered:**
+- Machine Learning (ML) & Deep Learning (DL)
+- Generative AI models
+- MLOps (MLflow, Hugging Face)
+- NLP using attention models
+- LLMs
 
 ---
 
+## 🧑‍💻 Deep Learning Intern
+**National Telecommunication Institute (NTI)** · *Cairo*  
+**Feb 2025 – Apr 2025**
+
+**Key areas covered:**
+- Built CNNs and deep learning models using PyTorch and TensorFlow.
+- Deployed classification models and evaluated their performance
+---
+
+## 🧑‍💻 Machine Learning Intern 
+**National Telecommunication Institute (NTI)** · *Cairo*  
+**Oct 2024 – Dec 2024**
+
+**Key areas covered:**
+- Developed ML models with Python, Scikit-learn, and TensorFlow.
+- Focused on preprocessing pipelines, model tuning, and evaluation
+---
 ## 🧑‍💻 Machine Learning Engineer Trainee  
 **IEEE** · *Cairo*  
 **September 2023 - November 2023**
